@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="RecylerView"
+    android:id="@+id/menuitemRecylerView"
+    android:icon="@drawable/home_24"></item>
+    <item android:title="MultiRecylerView"
+        android:id="@+id/menuitemMultiRecylerView"
+        android:icon="@drawable/home_24"></item>
+
+    <item android:title="TabBarOption"
+        android:id="@+id/menuitemTabBarOption"
+        android:icon="@drawable/home_24"></item>
+
+    <item android:title="BottomNavigationViewOption"
+        android:id="@+id/menuitemBottomNavigationViewOption"
+        android:icon="@drawable/home_24"></item>
+
+    <item android:title="SideDrawerEX"
+        android:id="@+id/menuitemSideDrawerEX"
+        android:icon="@drawable/home_24"></item>
+
+    <item android:title="Menu Different"
+        android:id="@+id/menuitemMenuDifferent"
+        android:icon="@drawable/home_24"></item>
+</menu>
